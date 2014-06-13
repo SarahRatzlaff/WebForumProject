@@ -1,0 +1,11 @@
+﻿<div ng-hide="checkLogin()">
+    <input type="button" value="Login" ng-click="GoToLogin()" />
+    <br />
+    <input type="button" value="Register" ng-click="GoToRegister()" />
+</div>
+<div ng-show="checkLogin()">
+    <input type="button" value="Logout" ng-click="Logout()" />
+</div>
+<div ng-controller="BoardCtrl" ng-init="getBoards()">
+    <div ng-repeat="Board in Boards" ng-click="GoToBoard(Board.Id)">{{Board.Name}}</div>
+</div>

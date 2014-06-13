@@ -1,0 +1,5 @@
+﻿<div ng-controller="BoardCtrl" ng-init="GetBoard()">
+    <h2>{{Board.Name}}</h2>
+    <div ng-repeat="Post in Board.Posts" ng-click="GoToPost(Post.Id)">{{Post.Title}}</div>
+    <div ng-click="ReturnToIndex()">Back To Home</div>
+</div>

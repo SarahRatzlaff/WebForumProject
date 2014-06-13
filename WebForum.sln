@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebForum", "WebForum\WebForum.csproj", "{4476F14B-2313-48E7-9B82-7B399D289A94}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebForum.Data", "WebForum.Data\WebForum.Data.csproj", "{74E95113-0F9E-4830-8145-55FC9CF95D27}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebForum.Data.Models", "WebForum.Data.Models\WebForum.Data.Models.csproj", "{60A7D3BE-116C-4C12-B191-E61BA3EBE04A}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 4
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://coderforrent.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = WebForum.Data.Models\\WebForum.Data.Models.csproj
+		SccProjectName1 = WebForum.Data.Models
+		SccLocalPath1 = WebForum.Data.Models
+		SccProjectUniqueName2 = WebForum.Data\\WebForum.Data.csproj
+		SccProjectName2 = WebForum.Data
+		SccLocalPath2 = WebForum.Data
+		SccProjectUniqueName3 = WebForum\\WebForum.csproj
+		SccProjectName3 = WebForum
+		SccLocalPath3 = WebForum
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4476F14B-2313-48E7-9B82-7B399D289A94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4476F14B-2313-48E7-9B82-7B399D289A94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4476F14B-2313-48E7-9B82-7B399D289A94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4476F14B-2313-48E7-9B82-7B399D289A94}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74E95113-0F9E-4830-8145-55FC9CF95D27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74E95113-0F9E-4830-8145-55FC9CF95D27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74E95113-0F9E-4830-8145-55FC9CF95D27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74E95113-0F9E-4830-8145-55FC9CF95D27}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60A7D3BE-116C-4C12-B191-E61BA3EBE04A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60A7D3BE-116C-4C12-B191-E61BA3EBE04A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60A7D3BE-116C-4C12-B191-E61BA3EBE04A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60A7D3BE-116C-4C12-B191-E61BA3EBE04A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

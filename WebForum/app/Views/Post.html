@@ -1,0 +1,8 @@
+﻿<div ng-controller="PostCtrl" ng-init="GetPost()">
+    <h2>{{Post.Title}}</h2>
+    <p>{{Post.Body}}</p>
+    <hr />
+    <div ng-repeat="Comment in Post.Comments">{{Comment.Body}} - {{Comment.Author}}</div>
+    <hr />
+    <div ng-click="GoToBoard()">Go to Board</div>
+</div>
