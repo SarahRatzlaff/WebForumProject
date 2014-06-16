@@ -17,3 +17,22 @@ c:\Users\Jason\documents\visual studio 2013\Projects\WebForum\WebForum.Data\obj\
 C:\Users\Jason\Documents\Visual Studio 2013\Projects\WebForum\WebForum.Data\obj\Debug\WebForum.Data.Migrations.InitialMigration.resources
 C:\Users\Jason\Documents\Visual Studio 2013\Projects\WebForum\WebForum.Data\obj\Debug\WebForum.Data.csproj.GenerateResource.Cache
 C:\Users\Jason\documents\visual studio 2013\Projects\WebForum\WebForum.Data\obj\Debug\WebForum.Data.Migrations.AddedDateTimeToPostAndComment.resources
+C:\Users\Sarah\Source\Repos\WebForumProject\WebForum.Data\bin\Debug\WebForum.Data.dll.config
+C:\Users\Sarah\Source\Repos\WebForumProject\WebForum.Data\bin\Debug\WebForum.Data.dll
+C:\Users\Sarah\Source\Repos\WebForumProject\WebForum.Data\bin\Debug\WebForum.Data.pdb
+C:\Users\Sarah\Source\Repos\WebForumProject\WebForum.Data\bin\Debug\EntityFramework.dll
+C:\Users\Sarah\Source\Repos\WebForumProject\WebForum.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Sarah\Source\Repos\WebForumProject\WebForum.Data\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Sarah\Source\Repos\WebForumProject\WebForum.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Sarah\Source\Repos\WebForumProject\WebForum.Data\bin\Debug\WebForum.Data.Models.dll
+C:\Users\Sarah\Source\Repos\WebForumProject\WebForum.Data\bin\Debug\WebForum.Data.Models.pdb
+C:\Users\Sarah\Source\Repos\WebForumProject\WebForum.Data\bin\Debug\EntityFramework.xml
+C:\Users\Sarah\Source\Repos\WebForumProject\WebForum.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Sarah\Source\Repos\WebForumProject\WebForum.Data\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Sarah\Source\Repos\WebForumProject\WebForum.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Sarah\Source\Repos\WebForumProject\WebForum.Data\obj\Debug\WebForum.Data.csprojResolveAssemblyReference.cache
+C:\Users\Sarah\Source\Repos\WebForumProject\WebForum.Data\obj\Debug\WebForum.Data.Migrations.InitialMigration.resources
+C:\Users\Sarah\Source\Repos\WebForumProject\WebForum.Data\obj\Debug\WebForum.Data.Migrations.AddedDateTimeToPostAndComment.resources
+C:\Users\Sarah\Source\Repos\WebForumProject\WebForum.Data\obj\Debug\WebForum.Data.csproj.GenerateResource.Cache
+C:\Users\Sarah\Source\Repos\WebForumProject\WebForum.Data\obj\Debug\WebForum.Data.dll
+C:\Users\Sarah\Source\Repos\WebForumProject\WebForum.Data\obj\Debug\WebForum.Data.pdb

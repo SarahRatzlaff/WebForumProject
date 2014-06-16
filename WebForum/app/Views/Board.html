@@ -1,5 +1,16 @@
 ﻿<div ng-controller="BoardCtrl" ng-init="GetBoard()">
-    <h2>{{Board.Name}}</h2>
-    <div ng-repeat="Post in Board.Posts" ng-click="GoToPost(Post.Id)">{{Post.Title}}</div>
-    <div ng-click="ReturnToIndex()">Back To Home</div>
+    <span class="btn btn-success" ng-click="ReturnToIndex()">Back To Home</span>
+
+    <h1 style="text-align: center;  color: #3169f1"><strong>{{Board.Name}}</strong></h1>
+     <!--Creating a button that will send Post to angular controller which sends it to WebAPI/adapter/database--> 
+    <input type="text" id="postTitle" placeholder="Title of Post" ng-model="Post.Title" />
+    <textarea ng-model="Post.Body" id="postBody" placeholder="Body of Post"></textarea>
+    <button ng-click="AddPost()">Submit Post</button>
+    <div ng-repeat="Post in Board.Posts">
+        <div ng-click ="GoToPost(Post.Id)"><strong> {{Post.Title}}</strong></div> 
+
+        <div class="btn btn-danger" ng-click="DeletePost(Post.Id)">Delete</div>
+        <!--<div class="btn btn-default" ng-click="GoToUpdate(Post.Id)">Update</div>--> <br /><br />
+    </div>
+    
 </div>

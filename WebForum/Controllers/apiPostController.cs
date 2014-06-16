@@ -6,6 +6,7 @@ using System.Net.Http;
 using System.Web.Http;
 using WebForum.Adapters.Adapters;
 using WebForum.Adapters.Interfaces;
+using WebForum.Data.Models;
 using WebForum.Models;
 
 namespace WebForum.Controllers
@@ -27,7 +28,7 @@ namespace WebForum.Controllers
         public IHttpActionResult Post(NewPost post)
         {
             _adapter.CreatePost(post);
-            return Ok();
+            return Ok(post);
         }
 
         public IHttpActionResult Put(NewPost post)

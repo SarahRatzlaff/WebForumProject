@@ -9,4 +9,5 @@
     $scope.GoToBoard = function () {
         $location.path('/board/' + $routeParams.boardId);
     }
-})
+
+});

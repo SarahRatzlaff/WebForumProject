@@ -12,3 +12,17 @@ c:\Users\Jason\documents\visual studio 2013\Projects\WebForum\WebForum.Data.Mode
 c:\Users\Jason\documents\visual studio 2013\Projects\WebForum\WebForum.Data.Models\obj\Debug\WebForum.Data.Models.csprojResolveAssemblyReference.cache
 c:\Users\Jason\documents\visual studio 2013\Projects\WebForum\WebForum.Data.Models\obj\Debug\WebForum.Data.Models.dll
 c:\Users\Jason\documents\visual studio 2013\Projects\WebForum\WebForum.Data.Models\obj\Debug\WebForum.Data.Models.pdb
+C:\Users\Sarah\Source\Repos\WebForumProject\WebForum.Data.Models\bin\Debug\WebForum.Data.Models.dll.config
+C:\Users\Sarah\Source\Repos\WebForumProject\WebForum.Data.Models\bin\Debug\WebForum.Data.Models.dll
+C:\Users\Sarah\Source\Repos\WebForumProject\WebForum.Data.Models\bin\Debug\WebForum.Data.Models.pdb
+C:\Users\Sarah\Source\Repos\WebForumProject\WebForum.Data.Models\bin\Debug\EntityFramework.dll
+C:\Users\Sarah\Source\Repos\WebForumProject\WebForum.Data.Models\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Sarah\Source\Repos\WebForumProject\WebForum.Data.Models\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Sarah\Source\Repos\WebForumProject\WebForum.Data.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Sarah\Source\Repos\WebForumProject\WebForum.Data.Models\bin\Debug\EntityFramework.xml
+C:\Users\Sarah\Source\Repos\WebForumProject\WebForum.Data.Models\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Sarah\Source\Repos\WebForumProject\WebForum.Data.Models\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Sarah\Source\Repos\WebForumProject\WebForum.Data.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Sarah\Source\Repos\WebForumProject\WebForum.Data.Models\obj\Debug\WebForum.Data.Models.csprojResolveAssemblyReference.cache
+C:\Users\Sarah\Source\Repos\WebForumProject\WebForum.Data.Models\obj\Debug\WebForum.Data.Models.dll
+C:\Users\Sarah\Source\Repos\WebForumProject\WebForum.Data.Models\obj\Debug\WebForum.Data.Models.pdb

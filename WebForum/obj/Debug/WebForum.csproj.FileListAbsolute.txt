@@ -42,3 +42,47 @@ c:\users\jason\documents\visual studio 2013\Projects\WebForum\WebForum\bin\Antlr
 c:\users\jason\documents\visual studio 2013\Projects\WebForum\WebForum\obj\Debug\WebForum.csprojResolveAssemblyReference.cache
 c:\users\jason\documents\visual studio 2013\Projects\WebForum\WebForum\obj\Debug\WebForum.dll
 c:\users\jason\documents\visual studio 2013\Projects\WebForum\WebForum\obj\Debug\WebForum.pdb
+C:\Users\Sarah\Source\Repos\WebForumProject\WebForum\bin\WebForum.dll.config
+C:\Users\Sarah\Source\Repos\WebForumProject\WebForum\bin\WebForum.dll
+C:\Users\Sarah\Source\Repos\WebForumProject\WebForum\bin\WebForum.pdb
+C:\Users\Sarah\Source\Repos\WebForumProject\WebForum\bin\Antlr3.Runtime.dll
+C:\Users\Sarah\Source\Repos\WebForumProject\WebForum\bin\EntityFramework.dll
+C:\Users\Sarah\Source\Repos\WebForumProject\WebForum\bin\EntityFramework.SqlServer.dll
+C:\Users\Sarah\Source\Repos\WebForumProject\WebForum\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Sarah\Source\Repos\WebForumProject\WebForum\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Sarah\Source\Repos\WebForumProject\WebForum\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Sarah\Source\Repos\WebForumProject\WebForum\bin\Newtonsoft.Json.dll
+C:\Users\Sarah\Source\Repos\WebForumProject\WebForum\bin\System.Net.Http.Formatting.dll
+C:\Users\Sarah\Source\Repos\WebForumProject\WebForum\bin\System.Web.Helpers.dll
+C:\Users\Sarah\Source\Repos\WebForumProject\WebForum\bin\System.Web.Http.dll
+C:\Users\Sarah\Source\Repos\WebForumProject\WebForum\bin\System.Web.Http.WebHost.dll
+C:\Users\Sarah\Source\Repos\WebForumProject\WebForum\bin\System.Web.Mvc.dll
+C:\Users\Sarah\Source\Repos\WebForumProject\WebForum\bin\System.Web.Optimization.dll
+C:\Users\Sarah\Source\Repos\WebForumProject\WebForum\bin\System.Web.Razor.dll
+C:\Users\Sarah\Source\Repos\WebForumProject\WebForum\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Sarah\Source\Repos\WebForumProject\WebForum\bin\System.Web.WebPages.dll
+C:\Users\Sarah\Source\Repos\WebForumProject\WebForum\bin\System.Web.WebPages.Razor.dll
+C:\Users\Sarah\Source\Repos\WebForumProject\WebForum\bin\WebForum.Data.dll
+C:\Users\Sarah\Source\Repos\WebForumProject\WebForum\bin\WebForum.Data.Models.dll
+C:\Users\Sarah\Source\Repos\WebForumProject\WebForum\bin\WebGrease.dll
+C:\Users\Sarah\Source\Repos\WebForumProject\WebForum\bin\WebForum.Data.Models.pdb
+C:\Users\Sarah\Source\Repos\WebForumProject\WebForum\bin\WebForum.Data.pdb
+C:\Users\Sarah\Source\Repos\WebForumProject\WebForum\bin\EntityFramework.xml
+C:\Users\Sarah\Source\Repos\WebForumProject\WebForum\bin\EntityFramework.SqlServer.xml
+C:\Users\Sarah\Source\Repos\WebForumProject\WebForum\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Sarah\Source\Repos\WebForumProject\WebForum\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Sarah\Source\Repos\WebForumProject\WebForum\bin\Newtonsoft.Json.xml
+C:\Users\Sarah\Source\Repos\WebForumProject\WebForum\bin\System.Net.Http.Formatting.xml
+C:\Users\Sarah\Source\Repos\WebForumProject\WebForum\bin\System.Web.Helpers.xml
+C:\Users\Sarah\Source\Repos\WebForumProject\WebForum\bin\System.Web.Http.xml
+C:\Users\Sarah\Source\Repos\WebForumProject\WebForum\bin\System.Web.Http.WebHost.xml
+C:\Users\Sarah\Source\Repos\WebForumProject\WebForum\bin\System.Web.Mvc.xml
+C:\Users\Sarah\Source\Repos\WebForumProject\WebForum\bin\System.Web.Optimization.xml
+C:\Users\Sarah\Source\Repos\WebForumProject\WebForum\bin\System.Web.Razor.xml
+C:\Users\Sarah\Source\Repos\WebForumProject\WebForum\bin\System.Web.WebPages.xml
+C:\Users\Sarah\Source\Repos\WebForumProject\WebForum\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Sarah\Source\Repos\WebForumProject\WebForum\bin\System.Web.WebPages.Razor.xml
+C:\Users\Sarah\Source\Repos\WebForumProject\WebForum\bin\Antlr3.Runtime.pdb
+C:\Users\Sarah\Source\Repos\WebForumProject\WebForum\obj\Debug\WebForum.csprojResolveAssemblyReference.cache
+C:\Users\Sarah\Source\Repos\WebForumProject\WebForum\obj\Debug\WebForum.dll
+C:\Users\Sarah\Source\Repos\WebForumProject\WebForum\obj\Debug\WebForum.pdb

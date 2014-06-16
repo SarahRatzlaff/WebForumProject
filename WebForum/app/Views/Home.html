@@ -1,4 +1,6 @@
 ﻿<div ng-hide="checkLogin()">
+   
+
     <input type="button" value="Login" ng-click="GoToLogin()" />
     <br />
     <input type="button" value="Register" ng-click="GoToRegister()" />
@@ -7,5 +9,6 @@
     <input type="button" value="Logout" ng-click="Logout()" />
 </div>
 <div ng-controller="BoardCtrl" ng-init="getBoards()">
-    <div ng-repeat="Board in Boards" ng-click="GoToBoard(Board.Id)">{{Board.Name}}</div>
+    <div class="col-md-4" ng-repeat="Board in Boards" ng-click="GoToBoard(Board.Id)">
+    <h2 style="text-align:center; cursor:pointer">{{Board.Name}}</h2></div>
 </div>
